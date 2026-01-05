@@ -1,0 +1,45 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments and env files
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Packages / build artifacts
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Compiled extensions
+*.so
+*.dylib
+*.dll
+
+# Optional: ignore data files (uncomment if you want to keep datasets out of git)
+# data/
+# *.csv
+# *.xlsx
